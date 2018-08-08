@@ -1,9 +1,8 @@
 <?php
 
-namespace Nozomi\Plugin\Blog;
+namespace Nozomi\Blog;
 
 class NozomiBlog extends \Nozomi\Core\NozomiPlugin {
   public function registerRoutes() {
-    
   }
 }
